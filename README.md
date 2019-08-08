@@ -86,6 +86,11 @@
 							<option value="30">30</option>
 						
 						</select>
+						
+						<label for="agree">I agreed to all the conditions of the form</label>
+						<input type="checkbox" name="agree">
+						
+						<button type="submit">Submit</button>
 					
 				</form>
 			
