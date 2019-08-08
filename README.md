@@ -30,6 +30,13 @@
 					
 					</div>
 					
+					<div>
+						<label for="email">Email</label>
+						<input type="email" name="email" placeholder="marcus@hotmail.com">
+						
+					
+					</div>
+					
 				</form>
 			
 			</div>
