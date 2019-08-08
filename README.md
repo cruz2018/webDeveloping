@@ -11,10 +11,10 @@
 			
 			<div id="reg-form">
 				<form action="" methods"">
-					<label for="first-name">First Name:<label>
+					<label for="first-name">First Name:</label>
 					<input type="text" name="first-name" placeholder="Marcus" required>
 					
-					<label for="first-name">last Name:<label>
+					<label for="first-name">last Name:</label>
 					<input type="text" name="Last Name" placeholder="Cruz" required>
 					
 					
