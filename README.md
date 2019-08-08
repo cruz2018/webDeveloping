@@ -30,6 +30,26 @@
 					
 					</div>
 					
+					<div>
+						<label for="Month">Birthday</label>
+						<select name="Month">
+							<option value="0" selected disabled>Month</option>
+							<option value="jan">January</option>
+							<option value="feb">February</option>
+							<option value="march">March</option>
+							<option value="april">April</option>
+							<option value="may">May</option>
+							<option value="june">June</option>
+							<option value="july">July</option>
+							<option value="aug">August</option>
+							<option value="sept">September</option>
+							<option value="oct">October</option>
+							<option value="nov">November</option>
+							<option value="dec">December</option>
+						
+						</select>
+					</div>
+					
 				</form>
 			
 			</div>
