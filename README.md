@@ -20,13 +20,13 @@
 					
 					<div>
 						<label for="gender-male">Male</label>
-						<label type="radio" name"gender-choice" value="choice-1">
+						<input type="radio" name"gender-choice" value="choice-1">
 						
 						<label for="gender-female"></label>
-						<label type="radio" name"gender-choice" value="choice-2">
+						<input type="radio" name"gender-choice" value="choice-2">
 						
 						<label for="gender-other"></label>
-						<label type="radio" name"gender-choise" value="choice-3">
+						<input type="radio" name"gender-choise" value="choice-3">
 					
 					</div>
 					
