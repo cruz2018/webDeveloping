@@ -10,7 +10,7 @@
 			<h1>Registration Form</h1>
 			
 			<div id="reg-form">
-				<form action="" methods"">
+				<form action="methods">
 					<label for="first-name">First Name:<label>
 					<input type="text" name="first-name" placeholder="Marcus" required>
 					
