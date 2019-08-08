@@ -15,7 +15,7 @@
 					<input type="text" name="first-name" placeholder="Marcus" required>
 					
 					<label for="first-name">last Name:<label>
-					<input type="text" name="Last Name" placeholder="Marcus" required>
+					<input type="text" name="Last Name" placeholder="Cruz" required>
 					
 					
 					<div>
